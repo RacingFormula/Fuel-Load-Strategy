@@ -1,4 +1,4 @@
-# Fuel-Load-Strategy
+# Fuel Load Strategy
 ## Overview
 
 The Fuel Load Strategy tool is an advanced simulation and analysis framework designed to optimise fuel load strategies for motorsport racing. By modelling factors such as fuel consumption rates, lap times, and pit stop penalties, the tool helps teams make informed decisions to balance performance and efficiency.
